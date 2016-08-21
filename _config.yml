@@ -16,5 +16,8 @@ navigation:
   - name: About
     url: 'http://www.digital-tree.be'
     type: external
+  - name: Gallery
+    id: 2c723984-797c-472d-a7e4-22563f13b342
+    type: content
 title: Audio Visual
 description: Independant programmer
