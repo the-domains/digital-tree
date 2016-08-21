@@ -11,6 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.796386344358325
-name: Digital-tree
+name: Digital tree
+navigation:
+  - name: About
+    url: 'http://www.digital-tree.be'
+    type: external
 title: Audio Visual
 description: Independant programmer
