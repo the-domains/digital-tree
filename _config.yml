@@ -1,0 +1,14 @@
+layout_spectrum: 0.7896624652203172
+typography_spectrum: 0.7906225260812789
+color:
+  brandStrength: 0.07595777744427323
+  lightness: 0.4696883230935782
+  saturation: 0.36546475207433105
+  rhythmicContrast: 0.43174656364135444
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+name: Digital-tree
