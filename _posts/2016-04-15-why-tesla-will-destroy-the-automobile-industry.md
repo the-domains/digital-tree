@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T08:33:22.806Z'
+datePublished: '2016-08-21T08:35:16.648Z'
 sourcePath: _posts/2016-04-15-why-tesla-will-destroy-the-automobile-industry.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T08:33:05.625Z'
+dateModified: '2016-08-21T08:35:16.037Z'
 title: Gallery
 app_links: []
 publisher: {}
