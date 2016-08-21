@@ -1,20 +1,14 @@
-typography_spectrum: 0.6954255644232035
+layout_spectrum: 0.7896624652203172
+typography_spectrum: 0.7906225260812789
 color:
-  brandStrength: 0.6292736544273794
-  lightness: 0.9737978959456086
-  saturation: 0.5238842701073736
-  rhythmicContrast: 0.8243904060218483
+  brandStrength: 0.07595777744427323
+  lightness: 0.4696883230935782
+  saturation: 0.36546475207433105
+  rhythmicContrast: 0.43174656364135444
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.796386344358325
-name: Digital tree
-navigation:
-  - name: Gallery
-    id: 2c723984-797c-472d-a7e4-22563f13b342
-    type: content
-title: Audio Visual
-description: Independant programmer
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Digital-tree
