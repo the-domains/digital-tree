@@ -1,4 +1,3 @@
-layout_spectrum: 0.796386344358325
 typography_spectrum: 0.6954255644232035
 color:
   brandStrength: 0.6292736544273794
@@ -6,9 +5,11 @@ color:
   saturation: 0.5238842701073736
   rhythmicContrast: 0.8243904060218483
   brandColors:
-    - '#0B0603'
-    - '#CAA453'
-    - '#FFFFFF'
-    - '#C8C8C8'
-    - '#213BB2'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.796386344358325
 name: Digital-tree
+title: Audio Visual
